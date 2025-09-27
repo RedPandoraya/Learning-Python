@@ -52,3 +52,4 @@ data=bool(input("masukkan data= "))
 print("data yang dimasukkan adalah= ", data, type(data))
 #selain angka 0, maka hasilnya akan True
 
+asd
