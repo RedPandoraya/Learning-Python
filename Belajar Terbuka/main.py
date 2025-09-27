@@ -52,3 +52,186 @@ data=bool(input("masukkan data= "))
 print("data yang dimasukkan adalah= ", data, type(data))
 #selain angka 0, maka hasilnya akan True
 
+
+
+
+
+asddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+#episode 6 casting tipe data
+#casting= mengubah tipe data
+angka=10
+castingangka=float(angka)
+print(castingangka, type(castingangka))
+
+#sama dengan casting ke tipe lainnya tapi sedikir berbeda untuk boolean
+teks="" 
+#jika teksnya diisi maka akan True, jika tika maka False
+castingteks=bool(teks)
+print(castingteks, type(castingteks))
+
+angka=0
+#selain angka 0, maka hasilnya akan True
+castingangka=bool(angka)
+print(castingangka, type(castingangka))
+
+asddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+#episode 6 casting tipe data
+#casting= mengubah tipe data
+angka=10
+castingangka=float(angka)
+print(castingangka, type(castingangka))
+
+#sama dengan casting ke tipe lainnya tapi sedikir berbeda untuk boolean
+teks="" 
+#jika teksnya diisi maka akan True, jika tika maka False
+castingteks=bool(teks)
+print(castingteks, type(castingteks))
+
+angka=0
+#selain angka 0, maka hasilnya akan True
+castingangka=bool(angka)
+print(castingangka, type(castingangka))asddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+#episode 6 casting tipe data
+#casting= mengubah tipe data
+angka=10
+castingangka=float(angka)
+print(castingangka, type(castingangka))
+
+#sama dengan casting ke tipe lainnya tapi sedikir berbeda untuk boolean
+teks="" 
+#jika teksnya diisi maka akan True, jika tika maka False
+castingteks=bool(teks)
+print(castingteks, type(castingteks))
+
+angka=0
+#selain angka 0, maka hasilnya akan True
+castingangka=bool(angka)
+print(castingangka, type(castingangka))asddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+#episode 6 casting tipe data
+#casting= mengubah tipe data
+angka=10
+castingangka=float(angka)
+print(castingangka, type(castingangka))
+
+#sama dengan casting ke tipe lainnya tapi sedikir berbeda untuk boolean
+teks="" 
+#jika teksnya diisi maka akan True, jika tika maka False
+castingteks=bool(teks)
+print(castingteks, type(castingteks))
+
+angka=0
+#selain angka 0, maka hasilnya akan True
+castingangka=bool(angka)
+print(castingangka, type(castingangka))asddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+#episode 6 casting tipe data
+#casting= mengubah tipe data
+angka=10
+castingangka=float(angka)
+print(castingangka, type(castingangka))
+
+#sama dengan casting ke tipe lainnya tapi sedikir berbeda untuk boolean
+teks="" 
+#jika teksnya diisi maka akan True, jika tika maka False
+castingteks=bool(teks)
+print(castingteks, type(castingteks))
+
+angka=0
+#selain angka 0, maka hasilnya akan True
+castingangka=bool(angka)
+print(castingangka, type(castingangka))asddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+#episode 6 casting tipe data
+#casting= mengubah tipe data
+angka=10
+castingangka=float(angka)
+print(castingangka, type(castingangka))
+
+#sama dengan casting ke tipe lainnya tapi sedikir berbeda untuk boolean
+teks="" 
+#jika teksnya diisi maka akan True, jika tika maka False
+castingteks=bool(teks)
+print(castingteks, type(castingteks))
+
+angka=0
+#selain angka 0, maka hasilnya akan True
+castingangka=bool(angka)
+print(castingangka, type(castingangka))asddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+#episode 6 casting tipe data
+#casting= mengubah tipe data
+angka=10
+castingangka=float(angka)
+print(castingangka, type(castingangka))
+
+#sama dengan casting ke tipe lainnya tapi sedikir berbeda untuk boolean
+teks="" 
+#jika teksnya diisi maka akan True, jika tika maka False
+castingteks=bool(teks)
+print(castingteks, type(castingteks))
+
+angka=0
+#selain angka 0, maka hasilnya akan True
+castingangka=bool(angka)
+print(castingangka, type(castingangka))asddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+#episode 6 casting tipe data
+#casting= mengubah tipe data
+angka=10
+castingangka=float(angka)
+print(castingangka, type(castingangka))
+
+#sama dengan casting ke tipe lainnya tapi sedikir berbeda untuk boolean
+teks="" 
+#jika teksnya diisi maka akan True, jika tika maka False
+castingteks=bool(teks)
+print(castingteks, type(castingteks))
+
+angka=0
+#selain angka 0, maka hasilnya akan True
+castingangka=bool(angka)
+print(castingangka, type(castingangka))asddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+#episode 6 casting tipe data
+#casting= mengubah tipe data
+angka=10
+castingangka=float(angka)
+print(castingangka, type(castingangka))
+
+#sama dengan casting ke tipe lainnya tapi sedikir berbeda untuk boolean
+teks="" 
+#jika teksnya diisi maka akan True, jika tika maka False
+castingteks=bool(teks)
+print(castingteks, type(castingteks))
+
+angka=0
+#selain angka 0, maka hasilnya akan True
+castingangka=bool(angka)
+print(castingangka, type(castingangka))asddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+#episode 6 casting tipe data
+#casting= mengubah tipe data
+angka=10
+castingangka=float(angka)
+print(castingangka, type(castingangka))
+
+#sama dengan casting ke tipe lainnya tapi sedikir berbeda untuk boolean
+teks="" 
+#jika teksnya diisi maka akan True, jika tika maka False
+castingteks=bool(teks)
+print(castingteks, type(castingteks))
+
+angka=0
+#selain angka 0, maka hasilnya akan True
+castingangka=bool(angka)
+print(castingangka, type(castingangka))asddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+#episode 6 casting tipe data
+#casting= mengubah tipe data
+angka=10
+castingangka=float(angka)
+print(castingangka, type(castingangka))
+
+#sama dengan casting ke tipe lainnya tapi sedikir berbeda untuk boolean
+teks="" 
+#jika teksnya diisi maka akan True, jika tika maka False
+castingteks=bool(teks)
+print(castingteks, type(castingteks))
+
+angka=0
+#selain angka 0, maka hasilnya akan True
+castingangka=bool(angka)
+print(castingangka, type(castingangka))
