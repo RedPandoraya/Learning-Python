@@ -55,4 +55,3 @@ hasil2 = kurdar8 or lebdar11
 #digabungkan dengan OR
 hasil = hasil1 and hasil2
 print("hasilnya adalah = ",hasil)
-
