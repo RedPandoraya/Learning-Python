@@ -1,0 +1,11 @@
+ID Karyawan,Nama,Departemen,Usia,Pengalaman (Tahun),Rating Kinerja
+101,Andi,Sales,28.0,3.0,4.5
+102,Budi,HR,35.0,10.0,4.0
+103,Citra,Marketing,24.0,2.0,4.8
+104,Dian,Sales,31.0,6.0,3.9
+105,Eko,IT,29.0,4.0,4.2
+106,Fani,HR,40.0,15.0,3.5
+107,Gita,Marketing,26.0,3.0,4.7
+108,Hadi,Sales,33.0,8.0,4.1
+109,Intan,IT,,5.0,4.6
+110,Joko,Marketing,27.0,,3.8
