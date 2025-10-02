@@ -37,7 +37,8 @@ print(format_a)
 
 #-Angka(Leading Zero)
 a= 2005.6577
-format_a= f"desimal leading zero= {a:010.3f}" #akan ada 10 karakter (angka) yang akan ditambilkan termasuk koma, dan mengambil 3 angka dibelakang koma
+format_a= f"desimal leading zero= {a:010.3f}" 
+#akan ada 10 ruang karakter (angka) yang akan ditampilkan termasuk koma, dan mengambil 3 angka dibelakang koma
 print(format_a)
 
 #-Angka (tanda "+", dan "-")
