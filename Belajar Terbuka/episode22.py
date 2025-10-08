@@ -11,11 +11,11 @@
 
 pertanyaan= input("sudah makan belum?")
 
-if pertanyaan =="sudah" #kondisi1
-    print("cepat juga kamu makannya") #aksi true 1
-else pertanyaan == "belum" #kondisi2
-    print("makan dong, emangnya kamu ga lapar") #aksi true 2
-else pertanyaan:
+if pertanyaan == "sudah" : 
+    print("cepat juga kamu makannya")
+elif pertanyaan == "belum" : 
+    print("makan dong, emangnya kamu ga lapar") 
+else:
     print("eh, sorry bang, kirain temen gw")
 
 # kondisi elif bisa ditambah sampai berapapun
